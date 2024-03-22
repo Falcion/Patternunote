@@ -27,7 +27,7 @@ files.forEach(async (element) => {
       if (line.includes('- [')) {
         totalTasks++;
         let weight = 1;
-        const match = line.match(/\{([\d.]+)(?:[*+]|$)/);
+        const match = line.match(/\{([\d.]+)(?:[*+]|)/);
 
         let tabs = count(line, '    ');
 
