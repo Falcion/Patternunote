@@ -1,5 +1,10 @@
 This is demo-version of changelog since this project will be revamped for more bigger standards.
 
+### v0.1.1
+
+1. added filename display mode;
+2. added header mode;
+
 ### v0.1.0
 
 1. added support for hierarchical mode (more details in the documentation for the script);

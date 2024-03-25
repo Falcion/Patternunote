@@ -1,4 +1,7 @@
 {
     "hierarchy_mode": false,
-    "_comment": "Turn leveling calculations to the weight for progress bar."
+    "_comment1": "Turn leveling calculations to the weight for progress bar.",
+    "header_mode": true,
+    "_comment2": "Split tasks by their correspondive headers as blocks.",
+    "display_filename": false
 }
